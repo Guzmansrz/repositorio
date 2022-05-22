@@ -206,7 +206,7 @@ Y aqui el estilo que le di
 ```
 
 Pensé que seria buena idea agregar en el header un boton que al apretarlo te descargase mi curriculum,
-la verdad que dude si hacer eso o hacer qye te redirigiese a otra pagina donde poder verlo.
+pero finalmente decidí descartarlo y optar por que te redirigiese a otra ventana donde poder verlo.
 Y tambien agregue otra pestaña donde poder ver mas facilmente como ponerte en contacto conmigo, la cual está
 vacía porque no quiero que nadie se ponga en contacto conmigo por esta página, aun tiene que mejorar mucho y creo
 que necesito tener cosas mas importantes y mejores que ponerle
