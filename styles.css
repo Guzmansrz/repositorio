@@ -6,7 +6,7 @@
   color: white;
 }
 body {
-  background-image: url(3trBFRO.jpg);
+  background-image: url(recursos/3trBFRO.jpg);
   background-repeat: no-repeat;
 }
 
@@ -106,7 +106,7 @@ body {
 }
 
 #portfolio img:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 @media only screen and (max-width: 640px) {
   #header #links a {
