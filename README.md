@@ -5,7 +5,7 @@
 La verdad que en un primer momento no sabía muy bien como plantearlo, ni como diseñarlo,
 entonces decidí buscar por internet algun ejemplo que me pudiera servir como referencia,
 despues de buscar y ver bastantes hay dos que tomé como referencia porque su diseño me encantó
-son estos dos: 1. http://www.nathaliejankie.nl y 2.http://www.jayvanhutten.com
+son estos dos: 1. <http://www.nathaliejankie.nl> y 2.<http://www.jayvanhutten.com>
 
 Para empezar decidí crear el header, que aunque iba a tener el mismo fondo que gran parte del
 cuerpo de la página, pense que sería lo mas comodo para estructurarlo todo.
