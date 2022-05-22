@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+body {
+  background-image: url(3trBFRO.jpg);
+  background-repeat: no-repeat;
+}
+
+#header {
+  display: flex;
+  padding: 20px 20px 16px 40px;
+  justify-content: space-between;
+  align-items: center;
+}
+#header #links a {
+  padding: 12px;
+  text-decoration: none;
+}
+
+#header #links a:hover {
+  background-color: lightcoral;
+  border-radius: 8px;
+}
+
+#header #logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+#Sobre_mi {
+  padding-top: 7%;
+  padding-left: 30%;
+  padding-right: 30%;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20%;
+}
+
+#Sobre_mi h1 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+#Sobre_mi h2 {
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+}
+#Sobre_mi p {
+  margin: 12px auto 16px;
+  text-align: left;
+  text-shadow: none;
+}
+#java {
+  background-color: darkviolet;
+  color: black;
+  border-radius: 5px;
+}
+#web {
+  background-color: lightblue;
+  color: black;
+  border-radius: 5px;
+}
+#sql {
+  background-color: deeppink;
+  color: black;
+  border-radius: 5px;
+}
+
+#portfolio {
+  padding-top: 60px;
+  padding-left: 8%;
+  padding-right: 3%;
+  background-color: #272626;
+}
+#portfolio #proyectos {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 3;
+}
+#portfolio .proyecto {
+  padding: 32px;
+  box-sizing: inherit;
+  width: 380px;
+  height: 440px;
+}
+
+#portfolio h4 {
+  padding-top: 12px;
+  font-weight: 600;
+}
+#portfolio h3 {
+  font-weight: 900;
+  padding-bottom: 20px;
+}
+#portfolio img {
+  border-radius: 8px;
+  width: 100%;
+}
+
+#portfolio img:hover {
+  transform: scale(1.1);
+}
+@media only screen and (max-width: 640px) {
+  #header #links a {
+    display: none;
+  }
+}
